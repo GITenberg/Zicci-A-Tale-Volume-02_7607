@@ -1,0 +1,28 @@
+_repo: Zicci-A-Tale-Volume-02_7607
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcsh 'English -- Italy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Zicci: A Tale — Volume 02'
+url: http://www.gutenberg.org/ebooks/7607
